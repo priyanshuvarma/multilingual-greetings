@@ -1,0 +1,14 @@
+.button {
+  background-color: #ffffff;
+  color: #db1c48;
+  border-radius: 12px;
+  border: 1px solid #db1c48;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 8px;
+  padding-right: 8px;
+}
+.red-button {
+  color: #ffffff;
+  background-color: #db1c48;
+}
